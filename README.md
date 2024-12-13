@@ -1,7 +1,8 @@
 Install Instructions
 
 1. Upload 4nwscheckpoints.json to your custom folder for Chernarus
-2. Open NWS Coastal Checkpoints Install - and copy and paste code into appropriate files.
+2. add "./custom/4nwscheckpoints.json" to "objectSpawnersArr": [] in cfggameplay.json
+3. Open NWS Coastal Checkpoints Install - and copy and paste code into appropriate files.
    You will be editing mapgrouppos.xml and zombie_territories.xml
 
    Instructional Video Coming Soon
