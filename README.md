@@ -1,5 +1,17 @@
+Install Instructions
+
+1. Upload 4nwscheckpoints.json to your custom folder for Chernarus
+2. Open NWS Coastal Checkpoints Install - and copy and paste code into appropriate files.
+   You will be editing mapgrouppos.xml and zombie_territories.xml
+
+   Instructional Video Coming Soon
+
+
 Created by IllegalCrib4
 
+
+
+Terms Of Use
 By downloading, installing, or using these modded files for DayZ, you agree to the following terms and conditions:
 
 1. Personal Use Only: These modded files are for personal use only. Distribution, resale, or any commercial use of these files is strictly prohibited without explicit permission from the creator(s).
