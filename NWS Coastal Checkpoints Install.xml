@@ -1,5 +1,5 @@
-<!--########mapgrouppos.xml entry########-->
-    <group name="StaticObj_Decon_PowerCable_01_CurveShort_F" pos="9120.351563 6.180521 2040.550415" rpy="0.999999 0.498953 -167.848999" a="-102.151"/>
+<!--########Copy and paste to - mapgrouppos.xml entry########--> 
+        <group name="StaticObj_Decon_PowerCable_01_CurveShort_F" pos="9120.351563 6.180521 2040.550415" rpy="0.999999 0.498953 -167.848999" a="-102.151"/>
 	<group name="StaticObj_Decon_LayFlatHose_01_CurveLong_F" pos="9118.929688 6.130200 2043.500000" rpy="0.000000 -1.999128 -87.250809" a="177.251"/>
 	<group name="StaticObj_Decon_LayFlatHose_01_StraightShort_F" pos="9115.598633 6.158036 2042.208496" rpy="-0.000000 0.000000 0.000000" a="90"/>
 	<group name="StaticObj_Decon_LayFlatHose_01_Roll_F" pos="9118.092773 7.004999 2046.828857" rpy="-9.999996 -14.499396 -131.780945" a="-138.219"/>
@@ -726,7 +726,10 @@
 	<group name="StaticObj_Decon_PowerCable_01_Step_F" pos="9119.820313 6.170907 2039.197754" rpy="-90.000000 0.000000 -63.000000" a="153"/>
 	<group name="StaticObj_Decon_PowerCable_01_SBend_F" pos="9123.459961 6.152491 2036.959961" rpy="-1.500000 0.000000 35.999996" a="54"/>
 <!--########mapgrouppos.xml entry########-->
-<!--########zombie_territories.xml entry-->
+
+
+
+<!--########Copy and paste to - zombie_territories.xml entry-->
 	 <!--1st Checkpoint--> 
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="5" dmax="9" x="12906.4" z="9360.5" r="40"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="12872" z="9362.9" r="30"/>
